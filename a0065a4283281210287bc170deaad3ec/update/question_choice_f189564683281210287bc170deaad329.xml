@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>4</order>
+        <published_ref/>
+        <question display_value="Type of Award">8a76968283281210287bc170deaad3f9</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-11 13:28:51</sys_created_on>
+        <sys_id>f189564683281210287bc170deaad329</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Escalation Handling Appreciation</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Recognize">a0065a4283281210287bc170deaad3ec</sys_scope>
+        <sys_update_name>question_choice_f189564683281210287bc170deaad329</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-11 13:28:51</sys_updated_on>
+        <text>Escalation Handling Appreciation</text>
+        <value>escalation_handling_appreciation</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=f189564683281210287bc170deaad329"/>
+</record_update>
