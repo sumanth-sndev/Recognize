@@ -21,7 +21,7 @@
         <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field/>
+        <field>watch_list</field>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -38,10 +38,10 @@
         <macro/>
         <macroponent/>
         <mandatory>false</mandatory>
-        <map_to_field>false</map_to_field>
+        <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>question_84bdf6eb6d1c5836120771b499a21277</name>
+        <name>watch_list</name>
         <order>500</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
@@ -56,9 +56,11 @@
         <record/>
         <record_producer_table>x_913118_recognize_request</record_producer_table>
         <reference>sys_user</reference>
-        <reference_qual>active=true</reference_qual>
-        <reference_qual_condition/>
-        <rich_text><![CDATA[Question 5]]></rich_text>
+        <reference_qual>active=true^EQ</reference_qual>
+        <reference_qual_condition table="sys_user">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </reference_qual_condition>
+        <rich_text><![CDATA[<p>Question 5</p>]]></rich_text>
         <roles_to_use_also_request_for/>
         <save_script><![CDATA[/** This script is executed before the Record is generated
 * `current`- GlideRecord produced by Record Producer
@@ -77,14 +79,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-09-11 13:31:23</sys_created_on>
         <sys_id>761a968683281210287bc170deaad304</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Watchlist</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>watch_list</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Recognize">a0065a4283281210287bc170deaad3ec</sys_scope>
         <sys_update_name>item_option_new_761a968683281210287bc170deaad304</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-09-11 13:34:40</sys_updated_on>
+        <sys_updated_on>2024-09-11 14:50:30</sys_updated_on>
         <table/>
         <tooltip/>
         <type>8</type>

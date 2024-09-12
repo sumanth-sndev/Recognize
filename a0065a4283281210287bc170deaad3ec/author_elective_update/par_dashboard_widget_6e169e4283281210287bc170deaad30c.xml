@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">2a169e4283281210287bc170deaad303</canvas>
+        <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
+        <component_props>{"table":"x_913118_recognize_request","fixedQuery":"active=true","listTitle":"All Active Tasks","columns":"","query":"active=true","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"nrlLandmark":true,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":false,"hideDotwalk":false,"hideColumnReorder":false,"hideRowSelector":false,"hideColumnGrouping":false,"hideColumnResizing":false,"hideColumnFiltering":false,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"refreshRequested":""}</component_props>
+        <h>20</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-11 13:13:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6e169e4283281210287bc170deaad30c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Recognize" source="x_913118_recognize">a0065a4283281210287bc170deaad3ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recognize">a0065a4283281210287bc170deaad3ec</sys_scope>
+        <sys_update_name>par_dashboard_widget_6e169e4283281210287bc170deaad30c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-11 13:13:54</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>15</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Recognize">a0065a4283281210287bc170deaad3ec</application>
+        <file_path/>
+        <instance_id>f165d7cdebff4e50e483f459bad0cd3a</instance_id>
+        <instance_name>dev285302</instance_name>
+        <name>par_dashboard_widget_6e169e4283281210287bc170deaad30c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">2a169e4283281210287bc170deaad303</canvas><component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component><component_props>{"table":"x_913118_recognize_request","fixedQuery":"active=true","listTitle":"All Active Tasks","columns":"","query":"active=true","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"nrlLandmark":true,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":false,"hideDotwalk":false,"hideColumnReorder":false,"hideRowSelector":false,"hideColumnGrouping":false,"hideColumnResizing":false,"hideColumnFiltering":false,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"refreshRequested":""}</component_props><h>20</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-11 13:13:54</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6e169e4283281210287bc170deaad30c</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Recognize" source="x_913118_recognize">a0065a4283281210287bc170deaad3ec</sys_package><sys_policy/><sys_scope display_value="Recognize">a0065a4283281210287bc170deaad3ec</sys_scope><sys_update_name>par_dashboard_widget_6e169e4283281210287bc170deaad30c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-11 13:13:54</sys_updated_on><visualization/><w>48</w><widget_props/><x>0</x><y>15</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-1128465777</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>20065a4283281210287bc170deaad3f1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-11 13:13:54</sys_created_on>
+        <sys_id>e6169e4283281210287bc170deaad30e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191e13812cd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-11 13:13:54</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>ea169e42642812105eeddc318f8b9a0d</update_guid>
+        <update_guid_history>ea169e42642812105eeddc318f8b9a0d:-1128465777</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">b2169e4283281210287bc170deaad325</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-11 13:13:54</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>2d1f658058e94544a097e9a6b3009c89</sys_id>
+        <sys_metadata>6e169e4283281210287bc170deaad30c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Recognize" source="x_913118_recognize">a0065a4283281210287bc170deaad3ec</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Recognize">a0065a4283281210287bc170deaad3ec</sys_scope>
+        <sys_scope_delete display_value="">898de3fa8c234f759774c46fb293a281</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_6e169e4283281210287bc170deaad30c</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_6e169e4283281210287bc170deaad30c">e6169e4283281210287bc170deaad30e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-11 13:13:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="de651216832c5210287bc170deaad389" extends="sys_import_set_row" label="Employee Data" max_length="40" name="x_913118_recognize_employee_data" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=User ID" label="User ID" max_length="40" name="u_user_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Last name" label="Last name" max_length="40" name="u_last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Email" label="Email" max_length="40" name="u_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=First name" label="First name" max_length="40" name="u_first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Middle name" label="Middle name" max_length="40" name="u_middle_name" type="string"/>
+        <element attributes="import_attribute_name=Mobile phone" label="Mobile phone" max_length="40" name="u_mobile_phone" type="integer"/>
+    </element>
+</database>

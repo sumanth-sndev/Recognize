@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Raise E-wallet Request for your Mentee">8d76de4283281210287bc170deaad3ff</catalog_item>
+        <catalog_variable>IO:8a76968283281210287bc170deaad3fd</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-11 14:58:00</sys_created_on>
+        <sys_id>49ddee4283a81210287bc170deaad312</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e_wallet_amount</sys_name>
+        <sys_package display_value="Recognize" source="x_913118_recognize">a0065a4283281210287bc170deaad3ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recognize">a0065a4283281210287bc170deaad3ec</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_49ddee4283a81210287bc170deaad312</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-11 14:58:00</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make E-wallet Amount Read-only">778d6a4283a81210287bc170deaad351</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>e_wallet_amount</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=49ddee4283a81210287bc170deaad312"/>
+</record_update>

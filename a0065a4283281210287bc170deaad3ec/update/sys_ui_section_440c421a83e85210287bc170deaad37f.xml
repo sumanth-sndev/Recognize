@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Corporate Appreciations" section_id="440c421a83e85210287bc170deaad37f" sys_domain="global" table="x_913118_recognize_employee" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>e_wallet_balance</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-12 07:08:15</sys_created_on>
+            <sys_id>100c421a83e85210287bc170deaad3dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Corporate Appreciations" display_value="Corporate Appreciations" name="x_913118_recognize_employee" sys_domain="global" view="Default view">440c421a83e85210287bc170deaad37f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-12 07:08:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>e_wallet_balance_validity</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-12 07:08:15</sys_created_on>
+            <sys_id>180c421a83e85210287bc170deaad3dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Corporate Appreciations" display_value="Corporate Appreciations" name="x_913118_recognize_employee" sys_domain="global" view="Default view">440c421a83e85210287bc170deaad37f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-12 07:08:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>awards_appreciations</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-12 07:08:15</sys_created_on>
+            <sys_id>100c421a83e85210287bc170deaad3dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Corporate Appreciations" display_value="Corporate Appreciations" name="x_913118_recognize_employee" sys_domain="global" view="Default view">440c421a83e85210287bc170deaad37f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-12 07:08:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-12 07:08:15</sys_created_on>
+            <sys_id>180c421a83e85210287bc170deaad3dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Corporate Appreciations" display_value="Corporate Appreciations" name="x_913118_recognize_employee" sys_domain="global" view="Default view">440c421a83e85210287bc170deaad37f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-12 07:08:15</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>e_wallet_budget</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-12 07:08:15</sys_created_on>
+            <sys_id>100c421a83e85210287bc170deaad3de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Corporate Appreciations" display_value="Corporate Appreciations" name="x_913118_recognize_employee" sys_domain="global" view="Default view">440c421a83e85210287bc170deaad37f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-12 07:08:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Corporate Appreciations</caption>
+            <header>false</header>
+            <name>x_913118_recognize_employee</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-12 07:08:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>440c421a83e85210287bc170deaad37f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_913118_recognize_employee</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Recognize" source="x_913118_recognize">a0065a4283281210287bc170deaad3ec</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Recognize">a0065a4283281210287bc170deaad3ec</sys_scope>
+            <sys_update_name>sys_ui_section_440c421a83e85210287bc170deaad37f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-12 07:08:14</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

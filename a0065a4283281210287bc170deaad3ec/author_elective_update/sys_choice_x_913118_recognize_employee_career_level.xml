@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="career_level" table="x_913118_recognize_employee" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>career_level</element>
+            <name>x_913118_recognize_employee</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-11 13:56:58</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>career_level</sys_name>
+            <sys_package display_value="Recognize" source="x_913118_recognize">a0065a4283281210287bc170deaad3ec</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Recognize">a0065a4283281210287bc170deaad3ec</sys_scope>
+            <sys_update_name>sys_choice_x_913118_recognize_employee_career_level</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-11 13:56:58</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>career_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Associate</label>
+            <language>en</language>
+            <name>x_913118_recognize_employee</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-11 13:56:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-11 13:59:47</sys_updated_on>
+            <value>10</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>career_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Senior Associate</label>
+            <language>en</language>
+            <name>x_913118_recognize_employee</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-11 13:57:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-11 13:59:52</sys_updated_on>
+            <value>9</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>career_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Technical Lead</label>
+            <language>en</language>
+            <name>x_913118_recognize_employee</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-11 13:57:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-11 14:00:01</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>career_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Manager</label>
+            <language>en</language>
+            <name>x_913118_recognize_employee</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-11 13:57:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-11 14:00:06</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>career_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Senior Manager</label>
+            <language>en</language>
+            <name>x_913118_recognize_employee</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-11 13:58:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-11 14:00:13</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>career_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Director</label>
+            <language>en</language>
+            <name>x_913118_recognize_employee</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-11 13:58:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-11 14:00:17</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>career_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Delivery Head</label>
+            <language>en</language>
+            <name>x_913118_recognize_employee</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-11 13:59:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-11 14:00:24</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>career_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HR Partner</label>
+            <language>en</language>
+            <name>x_913118_recognize_employee</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-11 13:59:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-11 14:00:35</sys_updated_on>
+            <value>20</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

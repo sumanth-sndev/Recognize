@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="project" table="x_913118_recognize_employee" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>project</element>
+            <name>x_913118_recognize_employee</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-11 13:53:34</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>project</sys_name>
+            <sys_package display_value="Recognize" source="x_913118_recognize">a0065a4283281210287bc170deaad3ec</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Recognize">a0065a4283281210287bc170deaad3ec</sys_scope>
+            <sys_update_name>sys_choice_x_913118_recognize_employee_project</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-11 13:53:34</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>project</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ABZ Consultancy</label>
+            <language>en</language>
+            <name>x_913118_recognize_employee</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-11 13:53:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-11 13:53:34</sys_updated_on>
+            <value>abz_consultancy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>project</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PTL India Ltd</label>
+            <language>en</language>
+            <name>x_913118_recognize_employee</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-11 13:54:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-11 13:54:03</sys_updated_on>
+            <value>ptl_india_ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>project</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Qwerty Hospitals</label>
+            <language>en</language>
+            <name>x_913118_recognize_employee</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-11 13:55:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-11 13:55:09</sys_updated_on>
+            <value>qwerty_hospitals</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>project</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>YUC Motors</label>
+            <language>en</language>
+            <name>x_913118_recognize_employee</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-11 13:54:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-11 13:54:44</sys_updated_on>
+            <value>yuc_motors</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>project</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Zone IT Services</label>
+            <language>en</language>
+            <name>x_913118_recognize_employee</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-11 13:54:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-11 13:54:25</sys_updated_on>
+            <value>zone_it_services</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

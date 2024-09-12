@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2b2e9e4a83281210287bc170deaad351" extends="sys_user" label="Employee" max_length="40" name="x_913118_recognize_employee" type="collection">
+        <element label="E-Wallet Balance Validity" max_length="40" name="e_wallet_balance_validity" type="glide_date"/>
+        <element label="E-wallet Budget" max_length="40" name="e_wallet_budget" read_only="true" type="integer"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="E-wallet Balance" max_length="40" name="e_wallet_balance" type="integer"/>
+        <element choice="1" label="Project/Account" max_length="40" name="project" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="YUC Motors" value="yuc_motors"/>
+                <element inactive_on_update="false" label="Qwerty Hospitals" value="qwerty_hospitals"/>
+                <element inactive_on_update="false" label="PTL India Ltd" value="ptl_india_ltd"/>
+                <element inactive_on_update="false" label="ABZ Consultancy" value="abz_consultancy"/>
+                <element inactive_on_update="false" label="Zone IT Services" value="zone_it_services"/>
+            </choice>
+        </element>
+        <element label="Awards/Appreciations" max_length="255" name="awards_appreciations" type="string"/>
+        <element choice="1" label="Career Level" max_length="40" name="career_level" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Director" sequence="6" value="5"/>
+                <element inactive_on_update="false" label="Technical Lead" sequence="3" value="8"/>
+                <element inactive_on_update="false" label="Associate" sequence="1" value="10"/>
+                <element inactive_on_update="false" label="Senior Manager" sequence="5" value="6"/>
+                <element inactive_on_update="false" label="Senior Associate" sequence="2" value="9"/>
+                <element inactive_on_update="false" label="Manager" sequence="4" value="7"/>
+                <element inactive_on_update="false" label="HR Partner" sequence="20" value="20"/>
+                <element inactive_on_update="false" label="Delivery Head" sequence="7" value="4"/>
+            </choice>
+        </element>
+    </element>
+</database>
